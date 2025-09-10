@@ -23,9 +23,9 @@ There are 1016 problems in total, of which
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
 - 606 appear to be completely open.
 - 165 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 140 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 343 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 329 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 142 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 342 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 328 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 3 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 
 
@@ -1013,8 +1013,8 @@ There are 1016 problems in total, of which
 | [980](https://www.erdosproblems.com/980) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [981](https://www.erdosproblems.com/981) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [982](https://www.erdosproblems.com/982) | no | falsifiable | no | [A004526](https://oeis.org/A004526) | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) |  |
-| [983](https://www.erdosproblems.com/983) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [984](https://www.erdosproblems.com/984) | no | proved | no | N/A | [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
+| [983](https://www.erdosproblems.com/983) | no | open | no | [A000051](https://oeis.org/A000051) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [984](https://www.erdosproblems.com/984) | no | proved | no | [A003034](https://oeis.org/A003034) | [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [985](https://www.erdosproblems.com/985) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/985.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [986](https://www.erdosproblems.com/986) | no | open | no | [A000791](https://oeis.org/A000791), [A059442](https://oeis.org/A059442) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [987](https://www.erdosproblems.com/987) | no | proved (Lean) | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
